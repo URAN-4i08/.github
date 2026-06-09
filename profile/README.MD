@@ -19,7 +19,7 @@ Zespół projektowy realizujący przedmiot **KCK (*Cyber trener*)** na Politechn
 
 | Repozytorium | Opis |
 |--------------|------|
-| [wirtualny-trener-grupa-uran](https://github.com/ORG/wirtualny-trener-grupa-uran) | Główny monorepo: backend Python/FastAPI, frontend React, logika trenera |
+| [wirtualny-trener-grupa-uran](https://github.com/URAN-4i08/wirtualny-trener-grupa-uran) | Główny monorepo: backend Python/FastAPI, frontend React, logika trenera |
 
 ## Technologie
 
